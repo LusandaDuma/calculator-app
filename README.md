@@ -7,7 +7,7 @@ This project demonstrates my skills in **PHP, HTML, CSS, and JavaScript**, and s
 
 ## 🚀 Live Demo
 Try it live here:  
-🔗 [PHP Calculator App Live](https://lusandacalculator.infinityfreeapp.com/)
+🔗 [PHP Calculator App Live](http://lusandacalculator.infinityfreeapp.com/)
 
 ---
 
@@ -34,7 +34,7 @@ Try it live here:
 **Lusanda Duma**  
 📧 [lusandaduma53@gmail.com](mailto:lusandaduma53@gmail.com)  
 🔗 [Portfolio](https://yourportfolio.com)  
-🔗 **Live Calculator App:** [https://lusandacalculator.infinityfreeapp.com/](https://lusandacalculator.infinityfreeapp.com/)
+🔗 **Live Calculator App:** [http://lusandacalculator.infinityfreeapp.com/](http://lusandacalculator.infinityfreeapp.com/)
 
 ---
 
