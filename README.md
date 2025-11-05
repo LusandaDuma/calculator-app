@@ -27,11 +27,20 @@ Try it live here:
 
 ---
 
-## 📸 Preview
-*(Add your screenshot in the `img` folder and link it here)*
-
-![Calculator Screenshot](img/MEDSURE-LOGO.png)
 
 ---
 
-## 📂 Folder Structure
+## 👤 Author
+**Lusanda Duma**  
+📧 [lusandaduma53@gmail.com](mailto:lusandaduma53@gmail.com)  
+🔗 [Portfolio](https://yourportfolio.com)  
+🔗 **Live Calculator App:** [https://lusandacalculator.infinityfreeapp.com/](https://lusandacalculator.infinityfreeapp.com/)
+
+---
+
+Feel free to explore the code and the live demo!  
+
+
+---
+
+
